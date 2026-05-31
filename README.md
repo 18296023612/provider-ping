@@ -3,6 +3,7 @@
 > **一键测试你的 AI API 供应商通不通、延迟多少 | 国产大模型连通性诊断工具**
 
 [![Release](https://img.shields.io/github/v/release/18296023612/provider-ping)](https://github.com/18296023612/provider-ping/releases)
+[![CI](https://github.com/18296023612/provider-ping/actions/workflows/go-ci.yml/badge.svg)](https://github.com/18296023612/provider-ping/actions/workflows/go-ci.yml)
 [![Go](https://img.shields.io/badge/Go-1.21%2B-blue)](https://go.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
